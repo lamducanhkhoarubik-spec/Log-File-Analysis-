@@ -1,7 +1,7 @@
 # Log File Analysis - 
 
 This is my first ***Data Analysis** project for a common dataset: ***Log File***.
-This project covers some fundamental skills: EDA Analysis, text processing (if using Pandas), Data Visualization, Polar
+This project covers some fundamental skills: EDA Analysis, text processing (if using Pandas), Data Visualization, Polar.
 Because of lack of time, this project was finished as an assignment, it should not be seen as an official materials for learning.
 
 
