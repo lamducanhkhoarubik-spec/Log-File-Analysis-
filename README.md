@@ -1,4 +1,4 @@
-<img width="178" height="148" alt="image" src="https://github.com/user-attachments/assets/d91308c4-11d9-4628-add6-fcb85f834f03" /># Log File Analysis - 
+# Log File Analysis - 
 
 This is my first ***Data Analysis** project for a common dataset: ***Log File***.
 This project covers some fundamental skills: EDA Analysis, text processing (if using Pandas), Data Visualization, Polar.
